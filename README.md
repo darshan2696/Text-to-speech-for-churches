@@ -1,4 +1,4 @@
-# Text-to-speech-for-churches
+# Text-to-speech-for-bible reading in churches
 Guy with the second wave of covid hitting us, we all struggle to run our church services. I'm making this tool to help with Bible reading when you cannot invite anyone to church. 
 
 All you need to do is specify which bible reading it is and whats the reference, my code can find the verse and talk the according to which bible reading it is.
